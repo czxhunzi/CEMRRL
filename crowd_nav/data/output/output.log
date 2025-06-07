@@ -1,0 +1,18 @@
+2025-06-02 12:07:11, INFO: Using device: cpu
+2025-06-02 12:07:11, INFO: human number: 5
+2025-06-02 12:07:11, INFO: Not randomize human's radius and preferred speed
+2025-06-02 12:07:11, INFO: Training simulation: circle_crossing, test simulation: circle_crossing
+2025-06-02 12:07:11, INFO: Square width: 9.0, circle width: 4.0
+2025-06-02 12:07:11, INFO: episode:0, reward1:4.05, reward2:-263.17, reward3:-208.27, memory size1:81, time:20.25, info1:Timeout, error:-6.20
+2025-06-02 12:07:12, INFO: episode:1, reward1:3.04, reward2:-285.10, reward3:-220.44, memory size1:162, time:20.25, info1:Timeout, error:-6.24
+2025-06-02 12:07:12, INFO: episode:2, reward1:-3.52, reward2:-56.40, reward3:-39.37, memory size1:185, time:5.75, info1:Collision, error:-2.71
+2025-06-02 12:07:12, INFO: episode:3, reward1:0.72, reward2:-200.38, reward3:-161.88, memory size1:245, time:15.00, info1:, error:-5.51
+2025-06-02 12:07:12, INFO: episode:4, reward1:1.03, reward2:-297.58, reward3:-255.73, memory size1:326, time:20.25, info1:Timeout, error:-6.83
+2025-06-02 12:07:13, INFO: episode:5, reward1:2.13, reward2:-261.87, reward3:-122.79, memory size1:407, time:20.25, info1:Timeout, error:-4.75
+2025-06-02 12:07:13, INFO: episode:6, reward1:-5.00, reward2:-1.00, reward3:-1.00, memory size1:408, time:0.25, info1:Collision, error:-2.00
+2025-06-02 12:07:13, INFO: episode:7, reward1:-2.37, reward2:-294.73, reward3:-274.46, memory size1:489, time:20.25, info1:Timeout, error:-7.03
+2025-06-02 12:07:13, INFO: episode:8, reward1:-2.51, reward2:-49.60, reward3:-55.43, memory size1:515, time:6.50, info1:Collision, error:-4.04
+2025-06-02 12:07:13, INFO: episode:9, reward1:-4.41, reward2:-63.23, reward3:-36.94, memory size1:540, time:6.25, info1:Collision, error:-2.67
+2025-06-02 12:07:14, INFO: episode:10, reward1:1.15, reward2:-82.86, reward3:-166.86, memory size1:591, time:12.75, info1:, error:-4.73
+2025-06-02 12:07:17, INFO: episode:11, reward1:1.97, reward2:-411.56, reward3:-304.18, memory size1:672, time:20.25, info1:Timeout, error:-8.84
+2025-06-02 12:07:19, INFO: episode:12, reward1:-5.23, reward2:-92.97, reward3:-79.12, memory size1:707, time:8.75, info1:Collision, error:-4.92
